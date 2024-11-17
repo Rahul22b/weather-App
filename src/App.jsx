@@ -56,8 +56,8 @@ const apiKey =
    
     
    
-   <div className='flex flex-col items-center font-bold'><div className='mt-20'>Made with ❤️ by Rahul</div>
-   <div>Dedicated to Sano</div></div>
+   <div className='flex flex-col items-center font-bold'><div className='mt-20'>Made with ❤️</div>
+   
     </div>
   )
 }
